@@ -1,3 +1,7 @@
+DROP TABLE IF EXISTS analytics_yearly_trends;
+DROP TABLE IF EXISTS analytics_state_summary;
+DROP TABLE IF EXISTS analytics_top_companies;
+DROP TABLE IF EXISTS cleaned_h1b_jobs;
 -- Cleaned layer
 CREATE TABLE cleaned_h1b_jobs AS
 SELECT
