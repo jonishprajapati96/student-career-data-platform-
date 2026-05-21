@@ -87,3 +87,17 @@ The project uses publicly available H1B Labor Condition Application (LCA) datase
 Download the dataset and place it in:
 
 data/raw/lca_fy2025.csv
+
+## Dashboard Preview
+
+### Main Dashboard
+
+![Dashboard](screenshots/dashboard-home.png)
+
+### Top Companies Analysis
+
+![Top Companies](screenshots/top-companies.png)
+
+### State Analysis
+
+![State Analysis](screenshots/state-analysis.png)
