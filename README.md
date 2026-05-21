@@ -96,8 +96,8 @@ data/raw/lca_fy2025.csv
 
 ### Top Companies Analysis
 
-![Top Companies](screenshots/top-companies.png)
+![Top Companies](screenshots/state_analysis_filter.png)
 
 ### State Analysis
 
-![State Analysis](screenshots/state-analysis.png)
+![State Analysis](screenshots/top_states_analysis_26.png)
